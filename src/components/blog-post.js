@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import { Helmet } from 'react-helmet'
 import Navbar from "./navbar"
-import './fonts.css'
 import "./layout.scss"
 
 export default function BlogPost({ data }) {

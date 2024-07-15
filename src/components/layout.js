@@ -4,7 +4,6 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Navbar from "./navbar"
 import { Helmet } from 'react-helmet'
-import './fonts.css'
 import "./layout.scss"
 
 const Layout = ({ children }) => {
