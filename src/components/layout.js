@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Navbar from "./navbar"
+import Footer from "./footer"
 import { Helmet } from 'react-helmet'
 import "./layout.scss"
 
@@ -28,9 +29,7 @@ const Layout = ({ children }) => {
       <main>
         {children}
       </main>
-      <Navbar siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <br/>
-      <div class="pagefoot">Making the music of the past come alive in the present.</div>
+      <Footer/>
     </div>
   )
 }

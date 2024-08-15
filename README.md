@@ -31,7 +31,7 @@ gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter
 1.  Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd gatsby-starter-bootstrap-5/
+    cd baroque
     gatsby develop
     ```
 

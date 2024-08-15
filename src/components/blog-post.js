@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import { Helmet } from 'react-helmet'
 import Navbar from "./navbar"
+import Footer from "./footer"
 import "./layout.scss"
 
 export default function BlogPost({ data }) {
@@ -15,9 +16,7 @@ export default function BlogPost({ data }) {
       </Helmet>
       <Navbar/>
       <div className="container my-5" dangerouslySetInnerHTML={{ __html: post.html }} />
-      <Navbar/>
-      <br/>
-      <div class="pagefoot">Making the music of the past come alive in the present.</div>
+      <Footer/>
     </div>
   )
 }

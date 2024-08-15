@@ -37,6 +37,8 @@ const menuItems = [
     title: 'Past Seasons',
     path: '/season-2022',
     subItems: [
+      { title: '2025', path: '/season-2025' },
+      { title: '2024', path: '/season-2024' },
       { title: '2023', path: '/season-2023' },
       { title: '2022', path: '/season-2022' },
       { title: '2021', path: '/season-2021' },

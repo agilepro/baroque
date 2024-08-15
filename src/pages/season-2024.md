@@ -1,8 +1,8 @@
 ---
 date: "2024-07-14"
-slug: "/season-2023"
+slug: "/season-2024"
 ---
 
-# 2023 Season
+# 2024 Season
 
 -- information not available --

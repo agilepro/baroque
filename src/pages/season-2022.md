@@ -66,7 +66,7 @@ oin us for an afternoon of Medieval entertainment and elegant conviviality at Ho
 * Pre-sales: $50
 * At door: $60
 
-## III. Bash: Pipe ORgan Transformations
+## III. Bash: Pipe Organ Transformations
 
 * Sunday March 20
 * 4:00pm
