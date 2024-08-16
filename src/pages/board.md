@@ -62,11 +62,11 @@ The Santa Cruz Baroque Festival’s founding Artistic Director, Linda Burman-Hal
 
 ### Judy Roberts
 
-![](board-rowan.jpg)
+![](board-judy.jpg)
 
 ### Max Schmeder
 
-![](board-rowan.jpg)
+![](board-max.jpg)
 
 ### Ontario Alexander
 
