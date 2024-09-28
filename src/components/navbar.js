@@ -34,8 +34,8 @@ const menuItems = [
     path: '/donate',
   },
   {
-    title: 'Past Seasons',
-    path: '/season-2022',
+    title: 'Seasons',
+    path: '/season-2025',
     subItems: [
       { title: '2025', path: '/season-2025' },
       { title: '2024', path: '/season-2024' },
