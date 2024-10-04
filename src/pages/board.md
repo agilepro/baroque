@@ -16,9 +16,7 @@ The Santa Cruz Baroque Festival’s founding Artistic Director, Linda Burman-Hal
 
 ### Jörg Reddin
 
-The Board of Directors are pleased to announced that our current 51st Season Artist-in
-
-Residence Jörg Reddin, has accepted our offer to become our new Artistic Director for the 2025 concert season. Our audiences have enthusiastically responded to Jorg's insightful programing, emotional range and exceptional people-friendly accessibility before, during, and after his four concerts earlier this season.
+Residence Jörg Reddin, has accepted our offer to become our new Artistic Director. Our audiences have enthusiastically responded to Jorg's insightful programing, emotional range and exceptional people-friendly accessibility before, during, and after his four concerts earlier this season.
 
 It was Linda Burman-Hall's desire in 2023 to bring Jörg Reddin, organist and bass-baritone of Bach's own church in Arnstadt Germany for our 2024 season, celebrating the legacy of J.S. Bach here in Santa Cruz. It is now our honor to continue her vision. As Linda worked tirelessly for over 50 years to bring exceptional performances and creative concerts to our community, it is our hope you will share this expedition through musical time next Season, our 52nd, with our new Artistic Director: organist, bass-baritone & conductor Jörg Reddin.
 

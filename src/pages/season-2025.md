@@ -19,7 +19,7 @@ Please consider donating to Santa Cruz Baroque Festival. We need your help to su
 * Holy Cross Church
 * Artistic Director Jörg Reddin, Pipe Organ
 
-Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church’s 1889 A. B. Fegemaker Pipe Organ. Featured composers will include D. Buxtehude, G. Böhm, J.S. Bach, E. F. Richter, A. G. Ritter and N. W. Gade, all of whom studied in Leipzig within a 100-year span, the town of J. S. Bach. Prepare to be amazed at Maestro Reddin’s keyboard virtuosity and profound interpretations of this music!
+Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church’s 1889 A. B. Fegemaker Pipe Organ. Featured composers will include D. Buxtehude, G. Böhm, J.S. Bach, E. F. Richter, A. G. Ritter and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin’s keyboard virtuosity and profound interpretations of this music!
 
 
 ## Concert II
@@ -43,7 +43,7 @@ In 1734 J.S. Bach performed the famous Coffee Cantata and Cantata Burlesque in c
 * Saturday, February 15 – 4:00pm
 * Peace United Church
 
-* Maestro Reddin, playing the organ, will be joined by violinist Samantha Bounkeua and cellist Judy Roberts in an unusual evening of chamber music spanning the baroque and romantic periods. Featured composers will include J.S. Bach, A. Vivaldi, A. Corelli, C. Saint-Saens, E. Grieg, and J.G. Rheinberger.
+Maestro Reddin, playing the organ, will be joined by violinist Samantha Bounkeua and cellist Judy Roberts in an unusual evening of chamber music spanning the baroque and romantic periods. Featured composers will include J.S. Bach, A. Vivaldi, A. Corelli, C. Saint-Saens, E. Grieg, and J.G. Rheinberger.
 
 
 ## Concert IV
@@ -63,13 +63,13 @@ In addition to his artistry with keyboard instruments, Maestro Reddin is in freq
 * Saturday, February 8 – time to be announced
 * German Cultural Center of Santa Cruz
 
-Live like the Germans do in a casual setting with informal performances by Jörg Reddin and other musicians. Food, wine, beer and non-alcoholic beverages will be served. Proceeds will jointly benefit Santa Cruz Baroque Festival and the German Hall, an educational and social not-for-profit organization.
+Live like the Germans do in a casual setting with informal performances by Jörg Reddin and other musicians. Food, wine, beer and non-alcoholic beverages will be served. Proceeds will jointly benefit Santa Cruz Baroque Festival and the German Cultural Center, an educational and social not-for-profit organization.
 
 ### Vocal Youth Competition
 * Sunday, February 9
 
 This season’s Youth Competition will be held in the singing category.
-Location to be announced
+Location and time to be announced.
 
 ### Vocal Master Class Led by Jörg Reddin
 * Sunday, February 16
@@ -77,17 +77,16 @@ Location to be announced
 Location to be announced.
 This season’s master class will be held in the singing category.
 
-### Board Members Make Music 
+### Chamber Music Fund-raiser 
 * Saturday, March 8
 
-Hosted in the private home of Brian Johnston, SCBF Board Co-President
-Address to be announced to attendees. Sponsors and donors will receive first priority.
+Hosted in a private home, Board members Brian Johnston, violin, Judy Roberts, cello, and Vlada Volkova Moran, piano will perform a  program of chamber music. Space is limited; sponsors and donors will receive first priority. Address will be provided upon reservation.
 
 ### Music in the Garden
 * Sunday, June 1
 
-Hosted in the Private Garden of SCBF Board member Judy Roberts
-Location to be announced to admitted attendees
+Hosted in the Private Garden of SCBF Board member Judy Roberts.
+Address will be provided upon reservation.
 
 Enjoy gourmet food, wine and non-alcoholic beverages while listening to music performed by local artists. All proceeds will benefit Santa Cruz Baroque Festival.
 
@@ -95,7 +94,7 @@ Enjoy gourmet food, wine and non-alcoholic beverages while listening to music pe
 * Date to be announced
 * St. Andrew’s Church of Ben Lomond
 
-In 2024 for the first time this favorite annual event relocated to charming St. Andrew’s Church. Accomplished local musicians performed on the very special pipe organ. This post-season gathering features pipe organ, strings, horns, and wind instruments. A primary attraction at this event in 2024 was the Irish Country Dancers led by Michael Murphy and accompanied by Crooked Road, a band led by Julie Horner. Enjoy all of this while you sip wine and eat gourmet treats.
+In 2024 for the first time this favorite annual event relocated to Ben Lomond’s charming St. Andrew’s Church. In addition to performances on the church’s pipe organ, a special attraction was the Irish Country Dancers led by Michael Murphy and accompanied by Crooked Road, a band led by Julie Horner.  In 2025, we plan another delightful afternoon including a variety of performances as well as wine and gourmet treats.
 
 
 

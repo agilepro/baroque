@@ -33,3 +33,13 @@ h3 {
     font-size: 20pt;
     color: #AF6B2B;
 }
+
+.spaceyTable tr td {
+    padding: 30px;
+    vertical-align: text-top;
+}
+
+.mainContentDiv {
+    max-width: 1000px;
+    margin: auto;
+}

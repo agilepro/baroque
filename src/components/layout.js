@@ -27,7 +27,9 @@ const Layout = ({ children }) => {
       </Helmet>
       <Navbar siteTitle={data.site.siteMetadata?.title || `Title`} />
       <main>
+        <div class="mainContentDiv">
         {children}
+        </div>
       </main>
       <Footer/>
     </div>

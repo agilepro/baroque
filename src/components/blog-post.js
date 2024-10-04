@@ -15,7 +15,9 @@ export default function BlogPost({ data }) {
         <link href="https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&family=Kaushan+Script&display=swap" rel="stylesheet"/>
       </Helmet>
       <Navbar/>
-      <div className="container my-5" dangerouslySetInnerHTML={{ __html: post.html }} />
+      <div class="mainContentDiv">
+        <div className="container my-5" dangerouslySetInnerHTML={{ __html: post.html }} />
+      </div>
       <Footer/>
     </div>
   )
