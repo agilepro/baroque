@@ -1,4 +1,4 @@
-# Santa Cruz Baoque Festival Website
+# Santa Cruz Baroque Festival Website
 
 This repository is for maintaining the website for the non-profit organization that produces the Santa Cruz Baroque Festival every year.
 
@@ -7,9 +7,9 @@ This repository is for maintaining the website for the non-profit organization t
 
 There are three key design goals:
 
-* __Ease of maintenance__.  As the organization moves forward, there will be a constant need to update the site.  This will typically be done by one persion, but there should be the ability to collaborate as necessary.  Most importantly change versions should be tracked, and old versions always available in the future if needed.  
+* __Ease of maintenance__.  As the organization moves forward, there will be a constant need to update the site.  This will typically be done by one person, but there should be the ability to collaborate as necessary.  Most importantly change versions should be tracked, and old versions always available in the future if needed.  
 
-* __Consistency of Site__.  To present a professional appearance the pages should have style guidelines strictly enforces in order to assure that all pages are styled the same.  This means that page authors will have low control of individual page styles.  Markdown offers the right capabilities.
+* __Consistency of Site__.  To present a professional appearance the pages should have style guidelines strictly enforced to assure that all pages have a consistent look.  This means that page authors will have low control of individual page styles.  Markdown offers the right capabilities.
 
 * __Free and available__.  Being a non-profit organization running on a shoe string, we want to leverage open source and free utilities to the extent possible.
 

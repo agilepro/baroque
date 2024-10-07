@@ -85,16 +85,3 @@ Kate has worked in a number of management positions for start-up as well as esta
 Currently Kate is an independent piano teacher who works with beginner to intermediate students. She is excited to have recently joined Santa Cruz Baroque Festival as General Manager.
 
 ![](board-kate.jpg)
-
-
-## Assistant manager
-
-### Isabella Balbi
-
-Isabella is a writer, radio DJ, and music enthusiast from Los Angeles.
-
-She has a passion for non-profit media and has worked extensively in non-commercial radio as a staff member at KZSC Santa Cruz, in addition to working with independent music venues including The UC Theatre Taube Family Music Hall.
-
-She is eager to continue to create opportunities for communities to connect through music, and is especially excited to work towards the Santa Cruz Baroque Festival’s mission of preserving musical and cultural traditions
-
-![](board-isabella.jpg)
