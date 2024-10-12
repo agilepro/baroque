@@ -53,7 +53,7 @@ Maestro Reddin, playing the organ, will be joined by violinist Samantha Bounkeua
 * Saturday, March 1 – 4:00pm
 * Peace United Church
 
-In addition to his artistry with keyboard instruments, Maestro Reddin is in frequent demand as a bass-baritone. In Concert IV he will perform as both organist and vocalist, accompanied by the UCSC Chamber Singers led by Michael McGushin. The program will also feature the Bay Area’s premier early music choir WAVE (Women’s Antique Vocal Ensemble) directed by Susan Swerdlow.
+In addition to his artistry with keyboard instruments, Maestro Reddin is in frequent demand as a bass-baritone. In Concert IV he will perform as both organist and vocalist, accompanied by the UCSC Chamber Singers led by Michael McGushin. Selections will include the works of F. Mendelssohn Bartholdy, J. Brahms, and E. Grieg.  The program will also feature the Bay Area’s premier early music choir WAVE (Women’s Antique Vocal Ensemble) directed by Susan Swerdlow. Compositions will include music from the Llibre Vermell de Montserrat (14th century Anonymous), F. Guerrero, and J.H. Schein. 
 
 * Jörg Reddin, Bass-Baritone and organ
 * UCSC Chamber Singers led by Michael McGushin

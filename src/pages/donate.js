@@ -3,6 +3,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 import {Seo} from "../components/seo"
 import DonateButton from "../components/donateButton"
+import { StaticImage } from "gatsby-plugin-image"
 
 const AboutPage = () => (
     <Layout>
@@ -55,12 +56,21 @@ const AboutPage = () => (
                 </td></tr>
             </table>
             <DonateButton/>
+
             <p>If you prefer to donate via check, please decide upon a suitable level of support above and mail your check to:</p>
             <ul>
                 <li>Santa Cruz Baroque Festival</li>
                 <li>P.O. Box 482</li>
                 <li>Santa Cruz, CA 95061</li>
             </ul>
+            <p>Or use this QR code from your phone:</p>
+            <StaticImage
+              src="../images/donate-qr-code.png"
+              formats={["AUTO", "WEBP"]}
+              alt="Baroque"
+              className="img-fluid"
+            />
+
             <p>The Santa Cruz Baroque Festival is a 501(c)(3) nonprofit corporation, EIN 94-2705719. It operates on an annual break-even budget. As with most performing arts organizations, ticket sales generate only a small portion of our income.</p>
           </div>
         </div>
@@ -70,5 +80,5 @@ const AboutPage = () => (
 export default AboutPage
 
 export const Head = () => (
-    <Seo title="About Gatsby Bootsrap 5 starter" />
+    <Seo title="SC Baroque Festival Donations" />
 )

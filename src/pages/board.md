@@ -4,13 +4,6 @@ slug: "/board"
 
 # Board of Directors
 
-## Founder, Former Artistic Director
-
-### Linda Burman-Hall
-
-The Santa Cruz Baroque Festival’s founding Artistic Director, Linda Burman-Hall, died suddenly on August 21 while attending a conference in Malaysia. It was her vision and boundless energy that has allowed SCBF to present excellent, historically informed performances of early music to the Santa Cruz community for decades. 
-
-![](board-linda.jpg)
 
 ## Artistic Director
 
@@ -42,7 +35,7 @@ It was Linda Burman-Hall's desire in 2023 to bring Jörg Reddin, organist and ba
 
 ## Vice President of Development
 
-### Dorothy Manzo 
+### Dorothy Manzo
 
 ![](board-dorothy.jpg)
 
@@ -67,10 +60,6 @@ It was Linda Burman-Hall's desire in 2023 to bring Jörg Reddin, organist and ba
 ### Judy Roberts
 
 ![](board-judy.jpg)
-
-### Max Schmeder
-
-![](board-max.jpg)
 
 ### Ontario Alexander
 

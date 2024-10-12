@@ -11,15 +11,18 @@ const IndexPage = () => (
       <div className="row py-lg-5">
         <div className="col-lg-6 col-md-8 mx-auto">
           <h1 className="fw-light">Santa Cruz Baroque Festival</h1>
-          <StaticImage
-            src="../images/front-image.jpg"
-            width={600}
-            quality={95}
-            formats={["AUTO", "WEBP"]}
-            alt="Baroque"
-            className="img-fluid"
-          />
-          
+          <Link to="/season-2025">
+            <StaticImage
+              src="../images/front-image.jpg"
+              width={600}
+              quality={95}
+              formats={["AUTO", "WEBP"]}
+              alt="Baroque"
+              className="img-fluid"
+            />
+            <p> </p>
+            <h3>2025 Season</h3>
+          </Link>
         </div>
       </div>
     </section>

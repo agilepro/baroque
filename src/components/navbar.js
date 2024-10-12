@@ -18,12 +18,17 @@ const menuItems = [
     ],
   },
   {
-    title: 'Youth Chamber',
-    path: '/youth',
+    title: '2025 Season',
+    path: '/season-2025',
   },
   {
-    title: 'Boomeria',
+    title: 'Other Events',
     path: '/boomeria',
+    subItems: [
+      { title: 'Boomaria', path: '/boomeria' },
+      { title: 'Youth Competition', path: '/youth' },
+      { title: 'Youth Vocal Competition', path: '/youth2' }
+    ]
   },
   {
     title: 'Tickets',
@@ -34,7 +39,7 @@ const menuItems = [
     path: '/donate',
   },
   {
-    title: 'Seasons',
+    title: 'Past Seasons',
     path: '/season-2025',
     subItems: [
       { title: '2025', path: '/season-2025' },
