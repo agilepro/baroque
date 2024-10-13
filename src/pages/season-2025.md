@@ -69,6 +69,7 @@ Live like the Germans do in a casual setting with informal performances by Jörg
 
 ### Vocal Youth Competition
 * Sunday, February 9
+* [See Details](/youth2)
 
 This season’s Youth Competition will be held in the singing category.
 Location and time to be announced.
@@ -95,6 +96,7 @@ Enjoy gourmet food, wine and non-alcoholic beverages while listening to music pe
 ### Boomeria Lives On!
 * Date to be announced
 * St. Andrew’s Church of Ben Lomond
+* [See Details](/boomeria)
 
 In 2024 for the first time this favorite annual event relocated to Ben Lomond’s charming St. Andrew’s Church. In addition to performances on the church’s pipe organ, a special attraction was the Irish Country Dancers led by Michael Murphy and accompanied by Crooked Road, a band led by Julie Horner.  In 2025, we plan another delightful afternoon including a variety of performances as well as wine and gourmet treats.
 

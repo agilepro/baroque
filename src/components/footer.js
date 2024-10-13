@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <nav className="navbar navbar-expand-md navbar-dark navBarStyle">
       <div className="container-fluid">
-        <Link to="/" className="navbar-brand" href="#">Santa Cruz Baroque Festival - Making the music of the past come alive in the present.</Link>
+        <Link to="/" className="footer-message" href="#">Santa Cruz Baroque Festival - Making the music of the past come alive in the present.</Link>
         <DonateButton/>
       </div>
     </nav>

@@ -23,7 +23,7 @@ const menuItems = [
   },
   {
     title: 'Other Events',
-    path: '/boomeria',
+    path: '/events',
     subItems: [
       { title: 'Boomaria', path: '/boomeria' },
       { title: 'Youth Competition', path: '/youth' },
@@ -40,7 +40,7 @@ const menuItems = [
   },
   {
     title: 'Past Seasons',
-    path: '/season-2025',
+    path: '/seasons',
     subItems: [
       { title: '2025', path: '/season-2025' },
       { title: '2024', path: '/season-2024' },
