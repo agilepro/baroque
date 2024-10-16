@@ -1,19 +1,15 @@
 ---
 slug: "/board"
 ---
-
-# Board of Directors
-
-
-## Artistic Director
+# Artistic Director
 
 ### Jörg Reddin
 
-Our audiences have enthusiastically responded to Jörg Reddin's insightful programing, emotional range and exceptional people-friendly accessibility before, during, and after his four concerts earlier in the 2024 season.
-
-It was Linda Burman-Hall's desire in 2023 to bring Jörg Reddin, organist and bass-baritone of Bach's own church in Arnstadt Germany for our 2024 season, celebrating the legacy of J.S. Bach here in Santa Cruz. It is now our honor to continue her vision. As Linda worked tirelessly for over 50 years to bring exceptional performances and creative concerts to our community, it is our hope you will share this expedition through musical time next Season, our 52nd, with our new Artistic Director: organist, bass-baritone & conductor Jörg Reddin.
+Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 season, when as Artist in Residence he directed and performed on the first four concerts of the Festival. Audiences enthusiastically responded to Maestro Reddin's insightful programing and virtuosity on the organ as well as his warm bass-baritone voice.  His infectious enthusiasm for Baroque music and easy rapport with the audience were evident throughout his four concerts. 
 
 ![](board-joerg.jpg)
+
+# Board of Directors
 
 ## Co-President
 

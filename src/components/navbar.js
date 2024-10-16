@@ -13,22 +13,21 @@ const menuItems = [
     path: '/about',
     subItems: [
       { title: 'History & Purpose', path: '/about' },
-      { title: 'Board of Directors', path: '/board' },
+      { title: 'People', path: '/board' },
       { title: 'Contact', path: '/contact' },
     ],
   },
   {
-    title: '2025 Season',
+    title: '2025 Season Concerts',
     path: '/season-2025',
   },
   {
-    title: 'Other Events',
-    path: '/events',
-    subItems: [
-      { title: 'Boomaria', path: '/boomeria' },
-      { title: 'Youth Competition', path: '/youth' },
-      { title: 'Youth Vocal Competition', path: '/youth2' }
-    ]
+    title: 'Youth Vocal Music Competition',
+    path: '/youth2'
+  },
+  {
+    title: 'Other 2025 Events',
+    path: '/events'
   },
   {
     title: 'Tickets',
