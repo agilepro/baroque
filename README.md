@@ -17,13 +17,13 @@ There are three key design goals:
 
 Gatsby is an open source framework freely available for use.  It stores the site as source files that can be managed in GitHub.  It generates a static site that can be hosted on any web server without needing any special capabilities of the server.  These points:
 
-* __Collaboration__: Managing of source through GitHub means that any number of people can be given access to Github, and can work on the site simultaneously.  
+* __Collaboration__: Managing of source through GitHub means that any number of people can be given access to GitHub, and can work on the site simultaneously.  
 * __Versioning__: All versions from the  are preserved in history, and can be recalled.  Anything accidentally deleted in the tip revision can be easily recovered from history.
-* __Offline__: Github allows developers to "pull" a local copy for working without needing to work online.
+* __Offline__: GitHub allows developers to "pull" a local copy for working without needing to work online.
 * __Static Site__: The final website is also simply a bunch of files that can be installed simply by putting the files on the server.
 * __Markdown__: Gatsby will automatically convert markdown files to web files.  The author then specifies the text in markdown which is very simple to do, and does not have to write HTML which is complex and cumbersome.
-* __Stylesheets__: there is no restriction on the stying of the pages.  Stylesheets and graphics are used in the same way as any web page.  Gatsby does not force any particular style on the site.
-* __React__: Gatsby is based on the powerful React platform, and thus if we wish we can make use of spcial React components.  For example, the "donate" button is one of those components.
+* __Stylesheets__: there is no restriction on the styling of the pages.  Stylesheets and graphics are used in the same way as any web page.  Gatsby does not force any particular style on the site.
+* __React__: Gatsby is based on the powerful React platform, and thus if we wish we can make use of special React components.  For example, the "donate" button is one of those components.
 
 Converting the site to Gatsby took about 20 hours of time, and the completed new site is a complete reformat of all pages.  That is why all the pages use a consistent font face and size throughout.
 
@@ -33,11 +33,11 @@ Pages are simple, with bullet lists used for places where a list of items is des
 
 There are popular web site builders which advertise the ability to create sites quickly and easily and they focus on how long it takes from start to site running.  What they don't discuss in detail is how this site is maintained in the long run.
 
-Github is based on very mature capabilities for running open source projects.  Every change by every developer is recorded and can be reviewed at any time.  You can easily ask "what changed between these two verions" in history.
+GitHub is based on very mature capabilities for running open source projects.  Every change by every developer is recorded and can be reviewed at any time.  You can easily ask "what changed between these two versions" in history.
 
-Popular web buiding sites lack the ability to inspect and review versions.  If they have versioning at all, it is generally oriented toward making releases, and lacks review capabilities.
+Popular web building sites lack the ability to inspect and review versions.  If they have versioning at all, it is generally oriented toward making releases, and lacks review capabilities.
 
-Many popular web site builders allows for customizatoin of individual pages.  The problem with allowing a page to stylized differently from others is that it then becomes a large task to keep them looking the same.  It is better to have "enforced" consistency but disallowing heavy customization of individual pages.
+Many popular web site builders allows for customization of individual pages.  The problem with allowing a page to stylized differently from others is that it then becomes a large task to keep them looking the same.  It is better to have "enforced" consistency but disallowing heavy customization of individual pages.
 
 Getting a web site up and running quickly hides the longer range issues that appear later.
 
@@ -62,7 +62,15 @@ Demo here : https://gatsbystarterbootstrap5.gatsbyjs.io/
 
 ## ✏️ How to develop locally
 
-1.  Pull a copy of this Repository to a folder named `baroque`
+1. Install [Node](https://nodejs.org/en/download/prebuilt-installer/current)
+
+1. Install Gatsby.
+
+```shell
+npm install -g gatsby-cli
+```
+
+1. Pull a copy of this Repository to a folder named `baroque`
 
 1. Navigate into your new site’s directory and start it up.
 

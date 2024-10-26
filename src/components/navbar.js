@@ -18,15 +18,15 @@ const menuItems = [
     ],
   },
   {
-    title: '2025 Season Concerts',
+    title: 'Concerts',
     path: '/season-2025',
   },
   {
-    title: 'Youth Vocal Music Competition',
+    title: 'Youth',
     path: '/youth2'
   },
   {
-    title: 'Other 2025 Events',
+    title: 'Events',
     path: '/events'
   },
   {
@@ -38,7 +38,7 @@ const menuItems = [
     path: '/donate',
   },
   {
-    title: 'Past Seasons',
+    title: 'Seasons',
     path: '/seasons',
     subItems: [
       { title: '2025', path: '/season-2025' },
