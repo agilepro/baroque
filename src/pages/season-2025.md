@@ -3,7 +3,7 @@ date: "2024-09-14"
 slug: "/season-2025"
 ---
 
-# 2025 Season
+# 2025 Season Concerts
 
 ## Rendezvous with the Romantics
 

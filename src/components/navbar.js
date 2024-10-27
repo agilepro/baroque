@@ -15,6 +15,7 @@ const menuItems = [
       { title: 'History & Purpose', path: '/about' },
       { title: 'People', path: '/board' },
       { title: 'Contact', path: '/contact' },
+      { title: 'DEI Statement', path: '/dei-statement' },
     ],
   },
   {

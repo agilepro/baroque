@@ -10,6 +10,28 @@ const AboutPage = () => (
         <div className="container  my-5">
           <div className="container">
             <h1>Donations</h1>
+
+            <h2>Announcing the Santa Cruz Baroque Festival 2025 Season!</h2>
+
+            <p>Dear Santa Cruz Baroque Festival Supporter,</p> 
+
+            <p>It is with great pleasure and enthusiasm that we announce the commencement of our 52nd season of the Santa Cruz Baroque Festival. This year marks the beginning of a new era for our beloved festival, as we welcome our esteemed new Artistic Director, Jörg Reddin, to the helm. We are thrilled to have such a distinguished musician leading us into this next chapter of our festival's evolving legacy. Jörg brings with him a wealth of experience and a deep connection to the Baroque tradition. As the organist and cantor at the renowned Johann Sebastian Bach Church in Arnstadt, Germany, he stands in a long and illustrious line of musicians who have upheld the legacy of JS Bach.</p> 
+
+            <p>While we celebrate this new beginning, we also pause to remember and honor the remarkable contributions of our Founder and Artistic Director of 50 years, Linda Burman-Hall, who sadly passed away last year. It was Linda’s keen eye for talent that brought Jörg to the SCBF as a visiting artist last season, shortly before her passing. In this way, she left us with a final gift – a worthy successor to carry forward her life's work and passion.</p> 
+
+            <p>On January 26, Jörg will inaugurate the 52nd concert season entitled Rendezvous with the Romantics with Concert I, a recital of Baroque organ masterworks at Holy Cross Church, set against the glow of candlelight and joined by special guest artists. Concert II features two of J.S. Bach's most beloved cantatas, the Coffee Cantata & Cantata Burlesque in a café setting, performed by Jörg Reddin, bass-baritone; Jennifer Paulino, soprano; Jonathan Salzado, harpsichord; and the Baroque Festival Strings and Winds. Concert III will feature Maestro Reddin, organ; Samantha Bounkeua, violin, and Judy Roberts, cello. Concert IV Jörg Reddin will perform as both organist and bass baritone, accompanied by the UCSC Chamber Singers and also featuring WAVE, the premier Women’s Antique Vocal Ensemble.</p> 
+
+            <p>In addition to our concerts, we will offer a variety of educational and performance opportunities including our first Youth Vocal Music Competition, German Cultural Center fundraiser, and private home events. Please visit our website https://scbaroque.org/to view these programs and other postseason programming.</p> 
+
+            <p>Your generosity is the fuel for our continued exploration. All of the research, practice, and passion poured into creating our concert series would come to nothing without the support of patrons like you. To aid you in consideration of the level of your giving, please consult the accompanying sheet listing various levels of giving and opportunities to sponsor concerts or instruments. Just use the ‘Donate’ tab of our website: scbaroque.org/donate. Donations may also be made by check mailed to our address, P.O. Box 482, Santa Cruz, CA 95061.</p> 
+
+            <p>With Gratitude,</p> 
+
+            <p>- Vlada Moran and Brian Johnston</p>
+            <p>- Co-Presidents, Santa Cruz Baroque Festival</p>
+
+<hr/>
+
             <p>There are many ways, large and small, that you may support the 
                 financial well-being of the Baroque Festival. 
                 Please explore the options below and find the level of 
