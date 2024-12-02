@@ -7,7 +7,7 @@ slug: "/youth"
 
 In Spring 2024, Santa Cruz Baroque Festival will offer its 22nd annual Youth Chamber Music Competition for musicians age 18 and younger in chamber ensembles.
 
-The Santa Cruz Baroque Festival’s founding Artistic Director, Linda Burman-Hall died suddenly on 21 August 2023 while attending a conference in Malaysia. It was her vision and boundless energy that has allowed SCBF to present excellent, historically informed performances of early music to the Santa Cruz community for decades. The Board of the SCBF is committed to honoring Linda’s vision by moving ahead with our plans for the 2024 season, including the Youth Chamber Music Competition / Emerging Artist Showcase with the generous support from Concert Sponsor Dean Silvers.
+The Santa Cruz Baroque Festival's founding Artistic Director, Linda Burman-Hall died suddenly on 21 August 2023 while attending a conference in Malaysia. It was her vision and boundless energy that has allowed SCBF to present excellent, historically informed performances of early music to the Santa Cruz community for decades. The Board of the SCBF is committed to honoring Linda's vision by moving ahead with our plans for the 2024 season, including the Youth Chamber Music Competition / Emerging Artist Showcase with the generous support from Concert Sponsor Dean Silvers.
 
 Following the competition, the performances and awards ceremony takes place at the Emerging Artists Showcase, 5 May 2024, at Holy Cross Church, Santa Cruz. By entering the competition, ensemble members affirm their ability to attend the Emerging Artists Showcase. Admission is free, although a $10 donation is appreciated.
 

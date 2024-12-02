@@ -47,13 +47,13 @@ Performed by:
 * Jeff Buenz, guitar
 * Steve Max Robertson, drums
 
-Cover of Jacques-Martin Hotteterre’s Méthode de Musette (1738), engraving by Bernard Picart, Bibliothèque National, Paris transformed with spiral keyboard and background by L. Burman-Hall and P. Bryan (2021).
+Cover of Jacques-Martin Hotteterre's Méthode de Musette (1738), engraving by Bernard Picart, Bibliothèque National, Paris transformed with spiral keyboard and background by L. Burman-Hall and P. Bryan (2021).
 
 ![](season-2022-img3.jpg)
 
-Jacques-Martin Hotteterre (1674-1763), the foremost member of the great French dynasty of renowned Baroque woodwind instrument makers, players and composers, told the world his secrets on how to play the wooden flute (France’s most popular instrument) as well as how to improvise successfully in his 1707 Opus 1 treatise.
+Jacques-Martin Hotteterre (1674-1763), the foremost member of the great French dynasty of renowned Baroque woodwind instrument makers, players and composers, told the world his secrets on how to play the wooden flute (France's most popular instrument) as well as how to improvise successfully in his 1707 Opus 1 treatise.
 
-Now three centuries later, with Hotter Jazz as the music of our own time, we apply Hotteterre’s improvisational ideas creatively in jazz style, working from similar foundations.
+Now three centuries later, with Hotter Jazz as the music of our own time, we apply Hotteterre's improvisational ideas creatively in jazz style, working from similar foundations.
 
 ## Midseason Fundraiser Transformation Through Hope
 
@@ -61,7 +61,7 @@ Now three centuries later, with Hotter Jazz as the music of our own time, we app
 * 4:00pm
 * Holy Cross Parish Hall
 
-oin us for an afternoon of Medieval entertainment and elegant conviviality at Holy Cross’s Parish Hall, with its breathtaking views of Santa Cruz and a spacious and well ventilated interior. Delightful snacks and wonderful wine provided by Hallcrest Vinyards will enhance the afternoon’s mood. Concordian Dawn, ensemble for medieval music, specializes in twelfth- through fourteenth-century vocal repertoire, drawing on primary source material and focusing on socio-philosophical similarities between texts from centuries ago and the mindset of modern society. In so doing, Concordian Dawn produces a musical experience accessible to contemporary audiences, relating the human condition of the past to the familiar experiences of the present.
+oin us for an afternoon of Medieval entertainment and elegant conviviality at Holy Cross's Parish Hall, with its breathtaking views of Santa Cruz and a spacious and well ventilated interior. Delightful snacks and wonderful wine provided by Hallcrest Vinyards will enhance the afternoon's mood. Concordian Dawn, ensemble for medieval music, specializes in twelfth- through fourteenth-century vocal repertoire, drawing on primary source material and focusing on socio-philosophical similarities between texts from centuries ago and the mindset of modern society. In so doing, Concordian Dawn produces a musical experience accessible to contemporary audiences, relating the human condition of the past to the familiar experiences of the present.
 
 * Pre-sales: $50
 * At door: $60
@@ -115,7 +115,7 @@ Portrait of J. S. Bach holding puzzle canon by Elias Gottlob Haussmann (ca 1745)
 
 ![](season-2022-img8.jpg)
 
-Eventually all sound-streams lead to Bach, whose name in German literally does mean ‘stream’, the joining of cooperating currents flowing confidently and with force. Our all-transcriptions concert takes place in candlelight, while the metaphorical light we shine on familiar works is quite new. Expect to hear Bach with new ears. Perhaps the most famous Bach organ work, the D Minor Toccata and Fugue, known for more than 250 years as an organ work, is heard now as it might have been conceived, as a work for unaccompanied violin.
+Eventually all sound-streams lead to Bach, whose name in German literally does mean ‘stream', the joining of cooperating currents flowing confidently and with force. Our all-transcriptions concert takes place in candlelight, while the metaphorical light we shine on familiar works is quite new. Expect to hear Bach with new ears. Perhaps the most famous Bach organ work, the D Minor Toccata and Fugue, known for more than 250 years as an organ work, is heard now as it might have been conceived, as a work for unaccompanied violin.
 
 An on-site meet-the-artists reception follows for fully vaccinated donors and season ticket holders.
 
@@ -125,11 +125,11 @@ An on-site meet-the-artists reception follows for fully vaccinated donors and se
 
 
 
-Join us as we visit the lush tropical-look garden of our Artistic Director on the banks of the San Lorenzo River. Enormous redwoods, exotic palms and dozens of colorful Japanese maples and other exotic Asian trees surround an enormous koi pond. Our ‘Music in the Garden’ is always held on Mother’s Day to welcome those who want to honor their mothers, those who are mothers, as well as those who simply seek exquisite musical and culinary diversions on a pleasant weekend in a lovely setting that is safe and convenient. We promise traditional gourmet food-treats: omnivore, vegetarian, and vegan finger-foods served safely; local wines, sparkling and still mineral waters, soft drinks, and especially we promise an intriguing variety of memorable music in a changeable garden like no other.
+Join us as we visit the lush tropical-look garden of our Artistic Director on the banks of the San Lorenzo River. Enormous redwoods, exotic palms and dozens of colorful Japanese maples and other exotic Asian trees surround an enormous koi pond. Our ‘Music in the Garden' is always held on Mother's Day to welcome those who want to honor their mothers, those who are mothers, as well as those who simply seek exquisite musical and culinary diversions on a pleasant weekend in a lovely setting that is safe and convenient. We promise traditional gourmet food-treats: omnivore, vegetarian, and vegan finger-foods served safely; local wines, sparkling and still mineral waters, soft drinks, and especially we promise an intriguing variety of memorable music in a changeable garden like no other.
 
 ~ Pre-sales: $50 ~At door: $55
 
-Italian anonymous 16th century. Painted panel Musée de l’Hôtel Lallemant, Bourges, France. Partial.
+Italian anonymous 16th century. Painted panel Musée de l'Hôtel Lallemant, Bourges, France. Partial.
 
 ![](season-2022-img9.jpg)
 
@@ -138,11 +138,11 @@ Italian anonymous 16th century. Painted panel Musée de l’Hôtel Lallemant, Bo
 
 * Sunday, May 22, 2022 ~ 7:00pm ~ Holy Cross Church
 
-Our 9th annual presentation features the top laureates of our Youth Chamber Music Competition. The 2022 winners will perform a variety of Baroque and Classical music, and receive their cash awards onstage. We’re certain you’ll be amazed at the quality of our winners. Year after year, the winners of Santa Cruz Baroque Festival’s Youth Chamber Music far exceed the limited expectations some may hold. Simply put, young musicians can yet be astonishing performers. Guided in their interpretation by experienced coaches who are themselves wonderful musicians, they are capable of communicating musical ideas of the masters with great fluency, responsiveness, and grace. Combining the vigor and enthusiasm of youth and a spirit of healthy competition, the Showcase presents an afternoon of breathtaking performances. It is also a chance to support the festival and its efforts to uplift emerging artists.
+Our 9th annual presentation features the top laureates of our Youth Chamber Music Competition. The 2022 winners will perform a variety of Baroque and Classical music, and receive their cash awards onstage. We're certain you'll be amazed at the quality of our winners. Year after year, the winners of Santa Cruz Baroque Festival's Youth Chamber Music far exceed the limited expectations some may hold. Simply put, young musicians can yet be astonishing performers. Guided in their interpretation by experienced coaches who are themselves wonderful musicians, they are capable of communicating musical ideas of the masters with great fluency, responsiveness, and grace. Combining the vigor and enthusiasm of youth and a spirit of healthy competition, the Showcase presents an afternoon of breathtaking performances. It is also a chance to support the festival and its efforts to uplift emerging artists.
 
 Guaranteed to be memorable and inspiring! Admission FREE ($10 donation requested)
 
-Anonymous 18th Century engraving of J. S. Bach’s student collegium
+Anonymous 18th Century engraving of J. S. Bach's student collegium
 
 
 ![](season-2022-img10.png)

@@ -7,9 +7,9 @@ slug: "/season-2025"
 
 ## Rendezvous with the Romantics
 
-Welcome to Santa Cruz Baroque Festival’s 52nd season. We are delighted to announce that our distinguished Artist in Residence from last season, Maestro Jörg Reddin, has accepted the position of new Artistic Director for the 2025 season. Maestro Reddin thrilled our audiences last year with his mastery of the pipe organ, his rich bass-baritone voice, and his skillful conducting. For 2025, in addition to presenting four contrasting concert programs we will cohost a fundraising event at the German Cultural Center of Santa Cruz and two concerts with limited admission at private homes. In addition, Maestro Reddin will once again offer a Master Class for vocalists and oversee our annual Youth Competition, this year also for singers. 
+Welcome to Santa Cruz Baroque Festival's 52nd season. We are delighted to announce that our distinguished Artist in Residence from last season, Maestro Jörg Reddin, has accepted the position of new Artistic Director for the 2025 season. Maestro Reddin thrilled our audiences last year with his mastery of the pipe organ, his rich bass-baritone voice, and his skillful conducting. For 2025, in addition to presenting four contrasting concert programs we will cohost a fundraising event at the German Cultural Center of Santa Cruz and two concerts with limited admission at private homes. In addition, Maestro Reddin will once again offer a Master Class for vocalists and oversee our annual Youth Competition, this year also for singers. 
 
-It's going to be an amazing year for Baroque music and some other surprise selections! We encourage you to purchase a season pass to save on individual ticket prices and ensure that you don’t miss any of these special events. Last year several of Jörg’s concerts sold out. Individual as well as season tickets may be purchased in advance on our website [https://scbaroque.org/](https://scbaroque.org/) and also at the door, space permitting.
+It's going to be an amazing year for Baroque music and some other surprise selections! We encourage you to purchase a season pass to save on individual ticket prices and ensure that you don't miss any of these special events. Last year several of Jörg's concerts sold out. Individual as well as season tickets may be purchased in advance on our website [https://scbaroque.org/](https://scbaroque.org/) and also at the door, space permitting.
 
 Please consider donating to Santa Cruz Baroque Festival. We need your help to sustain the quality of musicians and venues we have been able to offer for over 50 years.
 
@@ -19,7 +19,7 @@ Please consider donating to Santa Cruz Baroque Festival. We need your help to su
 * Holy Cross Church
 * Artistic Director Jörg Reddin, Pipe Organ
 
-Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church’s 1889 A. B. Fegemaker Pipe Organ. Featured composers will include D. Buxtehude, G. Böhm, J.S. Bach, E. F. Richter, A. G. Ritter and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin’s keyboard virtuosity and profound interpretations of this music!
+Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church's 1889 A. B. Fegemaker Pipe Organ. Featured composers will include D. Buxtehude, G. Böhm, J.S. Bach, E. F. Richter, A. G. Ritter and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin's keyboard virtuosity and profound interpretations of this music!
 
 There will be a reception prior to the first concert with delicious food, drinks and snacks. You will also have a chance to meet and greet with our new Artistic Director, Maestro Jörg Reddin. The reception is from 5:30-7:00pm.
 
@@ -54,9 +54,9 @@ Maestro Reddin, playing the organ, will be joined by violinist Samantha Bounkeua
 * Saturday, March 1 – 4:00pm
 * Peace United Church
 
-In addition to his artistry with keyboard instruments, Maestro Reddin is in frequent demand as a bass-baritone. In Concert IV he will perform as both organist and vocalist, accompanied by the UCSC Chamber Singers led by Michael McGushin. Selections will include the works of F. Mendelssohn Bartholdy, J. Brahms, and E. Grieg.  The program will also feature the Bay Area’s premier early music choir WAVE (Women’s Antique Vocal Ensemble) directed by Susan Swerdlow. Compositions will include music from the Llibre Vermell de Montserrat (14th century Anonymous), F. Guerrero, and J.H. Schein. 
+In addition to his artistry with keyboard instruments, Maestro Reddin is in frequent demand as a bass-baritone. In Concert IV he will perform as both organist and vocalist, accompanied by the UCSC Chamber Singers led by Michael McGushin. Selections will include the works of F. Mendelssohn Bartholdy, J. Brahms, and E. Grieg.  The program will also feature one of the Bay Area's premier early music choirs WAVE (Women's Antique Vocal Ensemble) directed by Susan Swerdlow. Compositions will include music from the Llibre Vermell de Montserrat (14th century Anonymous), F. Guerrero, and J.H. Schein. 
 
 * Jörg Reddin, Bass-Baritone and organ
 * UCSC Chamber Singers led by Michael McGushin
-* WAVE (Women’s Antique Vocal Ensemble)
+* WAVE (Women's Antique Vocal Ensemble)
 

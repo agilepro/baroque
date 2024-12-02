@@ -15,8 +15,8 @@ slug: "/season-2024"
 
 Our season begins with the first of four concerts led by Jörg
 Reddin, the distinguished Baroque organist, vocalist, and
-conductor who holds J S. Bach’s old job in Arnstadt, Germany.
-The Festival is proud to host Jörg Reddin’s North American
+conductor who holds J S. Bach's old job in Arnstadt, Germany.
+The Festival is proud to host Jörg Reddin's North American
 debut! Following the performance, there will be a meet-the-
 artists reception and tribute to Linda Berman-Hall for sponsors,
 donors, and season ticket holders in nearby Holy Cross Hall.
@@ -28,7 +28,7 @@ donors, and season ticket holders in nearby Holy Cross Hall.
 * Artist In Residence Jörg Reddin, Bass-Baritone
 * Sheila Willey, Soprano
 * Vlada Volkova-Moran, Chest Organ Obligato & Continuo
-* Marc Schachman, Baroque Oboe and Oboe D’amore and The Festival Baroque Strings
+* Marc Schachman, Baroque Oboe and Oboe D'amore and The Festival Baroque Strings
 
 J. S. Bach:
 Cantata 82 - Ich Habe Genug (For Bass-Baritone)

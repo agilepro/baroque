@@ -3,7 +3,7 @@ date: "2024-07-14"
 slug: "/contact"
 ---
 
-# We’d love to hear from you!
+# We'd love to hear from you!
 
 The Santa Cruz Baroque Festival is always looking to improce how we deliver out programming.  If you have praise, suggestions, ideas, wished, complaints, or any other kind of feedback, please tell us what's on your miND:
 
@@ -43,6 +43,8 @@ Advertising revenue not only pays for the printing of our season program, but co
 
 ----
 
-All concert venues are accessible.  Venues may have late seating restrictions.  
+All concert venues are accessible.  
+
+Venues may have late seating restrictions.  
 
 SCBF is a tax-exempt, 501(c)(3) arts organization funded by your individual donations, ticket sales and grants.

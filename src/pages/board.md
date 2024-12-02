@@ -43,7 +43,7 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ## Financial Director
 
-### Rowan O’Neal
+### Rowan O'Neal
 
 ![](board-rowan.jpg)
 
@@ -61,12 +61,4 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ![](board-ontario.jpg)
 
-## General Manager
 
-### Kate Smit
-
-Kate has worked in a number of management positions for start-up as well as established companies. She is originally from the east coast where she studied classical piano with Naomi Pollack from Juilliard and concert pianist Karen Goodin at Hartt Conservatory of Music. She has also studied with internationally acclaimed concert pianist Thomas Hansen in the Bay Area.
-
-Currently Kate is an independent piano teacher who works with beginner to intermediate students. She is excited to have recently joined Santa Cruz Baroque Festival as General Manager.
-
-![](board-kate.jpg)

@@ -16,9 +16,11 @@ slug: /youth2
 
 ## How to Apply
 
-* Complete the application form at [https://forms.gle/QDZW4AxdHPC4im5R9](https://forms.gle/QDZW4AxdHPC4im5R9).
+* Complete the application form at [https://docs.google.com/forms/d/e/1FAIpQLScdyIr3zog_HrMj2rxg4_jXD0dsJVXU98599xaOM5F9Gy1Nvw/viewform](https://docs.google.com/forms/d/e/1FAIpQLScdyIr3zog_HrMj2rxg4_jXD0dsJVXU98599xaOM5F9Gy1Nvw/viewform).
 * **Deadline**: February 1st, 2025
-* **Application fee** is $25 by check mailed to: P.O. Box 482, Santa Cruz, CA 95061
+* **Application fee** is $25
+  * by check mailed to: P.O. Box 482, Santa Cruz, CA 95061 or 
+  * by PayPal: (https://www.paypal.com/ncp/payment/4WB6MCAGJJSJ2)
 * You will receive email confirmation of your audition appointment
 
 ## Repertoire Requirements
