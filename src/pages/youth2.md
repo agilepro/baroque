@@ -34,7 +34,7 @@ slug: /youth2
 ## Competition Details
 
 * Date: February 9, 2025
-* Location: Santa Cruz, CA
+* Location: Trinity Presbyterian Church, 423 Melrose Ave, Santa Cruz
 * Audition times: 2 PM to late afternoon
 * While we consider scheduling preferences, please be prepared to perform at any time during this block
 

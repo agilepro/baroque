@@ -15,43 +15,44 @@ Please consider donating to Santa Cruz Baroque Festival. We need your help to su
 
 ## Concert I
 * Solo Pipe Organ by Candlelight
-* Sunday, January 26 – 7:30pm
+* Sunday, January 26 - 7:30pm to 9:30pm
 * Holy Cross Church
 * Artistic Director Jörg Reddin, Pipe Organ
 
 Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church's 1889 A. B. Fegemaker Pipe Organ. Featured composers will include D. Buxtehude, G. Böhm, J.S. Bach, E. F. Richter, A. G. Ritter and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin's keyboard virtuosity and profound interpretations of this music!
 
-There will be a reception prior to the first concert with delicious food, drinks and snacks. You will also have a chance to meet and greet with our new Artistic Director, Maestro Jörg Reddin. The reception is from 5:30-7:00pm.
+There will be a reception prior to the first concert with delicious food, drinks and snacks. You will also have a chance to meet and greet with our new Artistic Director, Maestro Jörg Reddin. The reception is from 6:00-7:00pm.
 
 
 ## Concert II
 * Bach Cantatas Coffee & Beer
-* Sunday, February 2 – 1:00 – 5:00pm
+* Sunday, February 2 - Refreshments 2pm, concert begins at 3pm to 4:45pm
 * Holy Cross Church Hall
 
 In 1734 J.S. Bach performed the famous Coffee Cantata and Cantata Burlesque in coffee houses and breweries.  Santa Cruz Baroque Festival will recreate this tradition for you in an afternoon of audible delight.  Please join this extraordinary cast of performers while enjoying coffee, beer, cakes, and other delectables in a café setting.
 
 * Jörg Reddin, Bass Baritone
-* Harpsichord – Jonathan Salzado
-* Violin – Kati Kyme, Lisa Weiss
-* Viola – Anthony Martin
-* Cello – William Skeen
-* Flute – Lars Johannesson
-* Soprano – Jennifer Paulino
+* Harpsichord - Jonathan Salzado
+* Violin - Kati Kyme, Lisa Weiss
+* Viola - Anthony Martin
+* Cello - William Skeen 
+* Horn - Bruce Dorcy
+* Flute - Lars Johannesson
+* Soprano - Jennifer Paulino
 * Tenor - Michael Jankosky
 
 
 ## Concert III 
 * Baroque Meets Romantique Chamber Music
-* Saturday, February 15 – 4:00pm
+* Saturday, February 15 - 4:00pm to 6:00pm
 * Peace United Church
 
-Maestro Reddin, playing the organ, will be joined by violinist Samantha Bounkeua and cellist Judy Roberts in an unusual evening of chamber music spanning the baroque and romantic periods. Featured composers will include J.S. Bach, A. Vivaldi, A. Corelli, C. Saint-Saens, E. Grieg, and J.G. Rheinberger.
+Maestro Reddin, playing the organ, will be joined by violinist Shannon D’Antonio and cellist Judy Roberts in an unusual evening of chamber music spanning the baroque and romantic periods. Featured composers will include J.S. Bach, A. Vivaldi, A. Corelli, C. Saint-Saens, E. Grieg, and J.G. Rheinberger.
 
 
 ## Concert IV
 * Baroque Meets Romantique Choral Concert
-* Saturday, March 1 – 4:00pm
+* Saturday, March 1 - 4:00pm to 6:00pm
 * Peace United Church
 
 In addition to his artistry with keyboard instruments, Maestro Reddin is in frequent demand as a bass-baritone. In Concert IV he will perform as both organist and vocalist, accompanied by the UCSC Chamber Singers led by Michael McGushin. Selections will include the works of F. Mendelssohn Bartholdy, J. Brahms, and E. Grieg.  The program will also feature one of the Bay Area's premier early music choirs WAVE (Women's Antique Vocal Ensemble) directed by Susan Swerdlow. Compositions will include music from the Llibre Vermell de Montserrat (14th century Anonymous), F. Guerrero, and J.H. Schein. 

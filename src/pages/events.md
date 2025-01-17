@@ -14,13 +14,18 @@ Live like the Germans do in a casual setting with informal performances by Jörg
 * [See Details](/youth2)
 
 This season's Youth Competition will be held in the singing category.
-Location and time to be announced.
 
 ### Vocal Master Class Led by Jörg Reddin
 * Sunday, February 16
 
-Location to be announced.
-This season's master class will be held in the singing category.
+Location: Trinity Presbyterian Church, 423 Melrose Ave, Santa Cruz
+
+This season's master class will be held in the singing category.  Send your intent of participation to Vlada Volkova-Moran at vladamuse@sbcglobal.net and the payment of $50 by February 10th
+
+* by check to: P.O. Box 482, Santa Cruz, CA 9506
+* by [PayPal](https://www.paypal.com/ncp/payment/KXLLJB2GDJEZA): https://www.paypal.com/ncp/payment/KXLLJB2GDJEZA
+
+The Masterclass is open to the public and free to observe.
 
 ### Chamber Music Fund-raiser 
 * Saturday, March 8
