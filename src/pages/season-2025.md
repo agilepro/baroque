@@ -19,7 +19,7 @@ Please consider donating to Santa Cruz Baroque Festival. We need your help to su
 * Holy Cross Church
 * Artistic Director Jörg Reddin, Pipe Organ
 
-Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church's 1889 A. B. Fegemaker Pipe Organ. Featured composers will include D. Buxtehude, G. Böhm, J.S. Bach, E. F. Richter, A. G. Ritter and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin's keyboard virtuosity and profound interpretations of this music!
+Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church's 1889 A. B. Fegemaker Pipe Organ. Featured composers will include J.S. Bach, J.E. Bach, E.F. Richter, A.G. Ritter, R. Schumann, F. Mendelssohn, E. Grieg and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin's keyboard virtuosity and profound interpretations of this music!
 
 There will be a reception prior to the first concert with delicious food, drinks and snacks. You will also have a chance to meet and greet with our new Artistic Director, Maestro Jörg Reddin. The reception is from 6:00-7:00pm.
 
@@ -36,7 +36,7 @@ In 1734 J.S. Bach performed the famous Coffee Cantata and Cantata Burlesque in c
 * Violin - Kati Kyme, Lisa Weiss
 * Viola - Anthony Martin
 * Cello - William Skeen 
-* Horn - Bruce Dorcy
+* Horn - Chandler Beck
 * Flute - Lars Johannesson
 * Soprano - Jennifer Paulino
 * Tenor - Michael Jankosky

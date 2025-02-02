@@ -61,4 +61,14 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ![](board-ontario.jpg)
 
+### Penni Bengtson
+
+![](board-penni.jpg)
+
+### Keith Swenson
+
+![](board-keith.jpg)
+
+
+
 
