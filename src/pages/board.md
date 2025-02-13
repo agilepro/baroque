@@ -41,12 +41,6 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ![](board-donald.jpg)
 
-## Financial Director
-
-### Rowan O'Neal
-
-![](board-rowan.jpg)
-
 ## Board members
 
 ### Jill Perry

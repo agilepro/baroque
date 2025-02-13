@@ -13,6 +13,8 @@ It's going to be an amazing year for Baroque music and some other surprise selec
 
 Please consider donating to Santa Cruz Baroque Festival. We need your help to sustain the quality of musicians and venues we have been able to offer for over 50 years.
 
+----
+
 ## Concert I
 * Solo Pipe Organ by Candlelight
 * Sunday, January 26 - 7:30pm to 9:30pm
@@ -22,6 +24,8 @@ Please consider donating to Santa Cruz Baroque Festival. We need your help to su
 Our season begins with Maestro Jörg Reddin performing works for solo organ on Holy Cross Church's 1889 A. B. Fegemaker Pipe Organ. Featured composers will include J.S. Bach, J.E. Bach, E.F. Richter, A.G. Ritter, R. Schumann, F. Mendelssohn, E. Grieg and N. W. Gade, all of whom studied in Leipzig, the town of J. S. Bach, within a 100-year span. Prepare to be amazed at Maestro Reddin's keyboard virtuosity and profound interpretations of this music!
 
 There will be a reception prior to the first concert with delicious food, drinks and snacks. You will also have a chance to meet and greet with our new Artistic Director, Maestro Jörg Reddin. The reception is from 6:00-7:00pm.
+
+----
 
 
 ## Concert II
@@ -41,6 +45,8 @@ In 1734 J.S. Bach performed the famous Coffee Cantata and Cantata Burlesque in c
 * Soprano - Jennifer Paulino
 * Tenor - Michael Jankosky
 
+----
+
 
 ## Concert III 
 * Baroque Meets Romantique Chamber Music
@@ -48,6 +54,8 @@ In 1734 J.S. Bach performed the famous Coffee Cantata and Cantata Burlesque in c
 * Peace United Church
 
 Maestro Reddin, playing the organ, will be joined by violinist Shannon D’Antonio and cellist Judy Roberts in an unusual evening of chamber music spanning the baroque and romantic periods. Featured composers will include J.S. Bach, A. Vivaldi, A. Corelli, C. Saint-Saens, E. Grieg, and J.G. Rheinberger.
+
+----
 
 
 ## Concert IV

@@ -21,6 +21,7 @@ Following the competition, the performances and awards ceremony takes place at t
 
 **Eligibility:** The competition is open to musicians 18 years of age or younger on the date of the competition residing in Santa Cruz, San Mateo, Monterey, Santa Clara, or San Benito counties.
 
+
 ## 2023
 
 Winners of the 2023 YCMC competition held Sunday May 21, 2023 at Holy Cross Church:
