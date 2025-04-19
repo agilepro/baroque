@@ -21,6 +21,24 @@ Following the competition, the performances and awards ceremony takes place at t
 
 **Eligibility:** The competition is open to musicians 18 years of age or younger on the date of the competition residing in Santa Cruz, San Mateo, Monterey, Santa Clara, or San Benito counties.
 
+## 2025
+
+Dear Youth Vocal Competition participants,
+
+Congratulations on your beautiful performances at baroque Festival 1st Youth Vocal Competition and congratulations to all your teachers!  It was a pleasure to hear you sing yesterday and we hope you all will continue to grow and develop your incredible talents! Below is the winners list of SCBF Youth Vocal Competition 2025.
+
+1st place, $500 - Talia Nabarro (teacher - Emily Sinclair)
+2nd place, $300, and special German-language song award, $100 - Kristiana Budke (teacher -Sheila Willey)
+3rd place, $100 - Maddison Ramirez (teacher - Emily Sinclair)
+
+The monetary awards will be announced and presented to the winners at SCBF Concert IV on Saturday, March 1st., 4 p.m., at Peace United Church. The 1st place winner, Talia Nabarro is invited to perform "<em>Oh Had I Jubals Lyre</em>" by G.F. Handel.  The special German-language award winner, Kristiana Budke is invited to perform "<em>Ach, die Augen sind es wieder</em>" by Fanny Mendelssohn Hensel.
+
+All competition participants are awarded one complimentary ticket for any of two remaining concerts of SCBF.
+
+We are looking forward to see and hear you next year!
+Vlada Moran
+SCBF Co-president
+
 
 ## 2023
 

@@ -13,10 +13,13 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 
 ![](boomeria-img00.jpg)
 
-## Saturday July 13, 2024 1-5 pm
+
+## Saturday, July 12th, 2025 1-5 pm
 
 * St. Andrews Episcopal Church
 * 101 Riverside Ave, Ben Lomond, CA 95005
+
+
 
 Program: Selections to be announced by the artist.
 

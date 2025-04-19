@@ -46,24 +46,17 @@ The Masterclass is open to the public and free to observe.
 ----
 
 ### Chamber Music Fund-raiser 
-* Saturday, March 8
+* Saturday, April 26, 3:00 pm
+* $50
 
-Hosted in a private home, Board members Brian Johnston, violin, Judy Roberts, cello, and Vlada Volkova Moran, piano will perform a  program of chamber music. Space is limited; sponsors and donors will receive first priority. Address will be provided upon reservation.
 
-----
+Hosted in a private home, Board members Brian Johnston, violin, Judy Roberts, cello, and Vlada Volkova Moran, piano will perform trios and duos of Mozart, Beethoven, Debussy and Chopin. The event will be held at a private home in Scotts Valley. The address will be provided when purchasing tickets. Space is limited.
 
-### Music in the Garden
-* Sunday, June 1
-
-Hosted in the Private Garden of SCBF Board member Judy Roberts.
-Address will be provided upon reservation.
-
-Enjoy gourmet food, wine and non-alcoholic beverages while listening to music performed by local artists. All proceeds will benefit Santa Cruz Baroque Festival.
 
 ----
 
 ### Boomeria Lives On!
-* Date to be announced
+* Saturday, July 12th, 1-5 p.m.
 * St. Andrew's Church of Ben Lomond
 * [See Details](/boomeria)
 

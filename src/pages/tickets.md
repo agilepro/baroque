@@ -6,8 +6,8 @@ slug: "/tickets"
 # Tickets
 
 ### Get access to 
-* [Latest season tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=B763DF78-ED0E-FBBF-EDFF4B934B18EF39) 
-* [Concert tickets](https://www.instantseats.com/index.cfm?fuseaction=home.venue&VenueID=59).
+
+* [April fundraiser tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=58EC3A3D-9CA3-54DF-3C9D43A7D4FA7058)
 
 If the link does not work, copy and paste this address: https://www.instantseats.com/index.cfm?fuseaction=home.venue&VenueID=59
 
