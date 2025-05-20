@@ -22,14 +22,15 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 * 101 Riverside Ave, Ben Lomond, CA 95005
 
 
-
 Program: Selections to be announced by the artist.
 
-* Bill Visscher ~ pipe organ
-* Bruce Sawhill ~ pipe organ
-* Robert Jackson ~ pipe organ
-* Jesse McMilan ~ pipe organ, piano
-* Martin Gaskell ~ pipe organ
+* Jörg Reddin - pipe organ
+* Ann Thiermann - pipe organ
+* Jesse McMilin - pipe organ
+* Martin Gaskell - pipe organ
+* Vlada Moran - pipe organ
+* Wayne Jackson - pipe organ
+* William Visscher - pipe organ
 
 
 
@@ -40,16 +41,7 @@ The Santa Cruz Brass Quintet
 * Charlie McDowell, Trombone
 * Scott Wilkinson, Tuba
 
-Bonny Doon Baroque & Crumhorn Extravaganza
-* Music for violin, viols, harpsichord, crumhorns.
-* Martin Gaskell ~ Barbara Gaskell ~ Helen Gibbons ~ Scott Wilkinson
-* Penny Hanna ~ Laura Gaskell
 
 Santa Cruz Historical Fencing
 * Historical Swordplay Lecture and Demonstration with Rowan O'Neal and Van Swanson
-
-Irish Dancers “Wings of Fire”
-* led by Michael Murphy and
-* Accompanied by Crooked Road
-* with Julie Horner
 
