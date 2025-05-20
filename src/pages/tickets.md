@@ -7,9 +7,9 @@ slug: "/tickets"
 
 ### Get access to 
 
-* [April fundraiser tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=58EC3A3D-9CA3-54DF-3C9D43A7D4FA7058)
+* [Boomeria tickets](https://runsignup.com/TicketEvent/SantaCruzBaroqueFestivalBoomeria)
 
-If the link does not work, copy and paste this address: https://www.instantseats.com/index.cfm?fuseaction=home.venue&VenueID=59
+If the link does not work, copy and paste this address: https://runsignup.com/TicketEvent/SantaCruzBaroqueFestivalBoomeria
 
 If you experience any difficulties, please contact us at:
 

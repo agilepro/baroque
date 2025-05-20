@@ -47,7 +47,8 @@ The Masterclass is open to the public and free to observe.
 
 ### Chamber Music Fund-raiser 
 * Saturday, April 26, 3:00 pm
-* $50
+* $50  ( [Tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=58EC3A3D-9CA3-54DF-3C9D43A7D4FA7058) )
+* [See the Poster](../Apr_25_fundraiser_poster.pdf)
 
 
 Hosted in a private home, Board members Brian Johnston, violin, Judy Roberts, cello, and Vlada Volkova Moran, piano will perform trios and duos of Mozart, Beethoven, Debussy and Chopin. The event will be held at a private home in Scotts Valley. The address will be provided when purchasing tickets. Space is limited.

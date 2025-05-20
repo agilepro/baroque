@@ -13,6 +13,8 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 
 ![](boomeria-img00.jpg)
 
+* [Boomeria tickets](https://runsignup.com/TicketEvent/SantaCruzBaroqueFestivalBoomeria)
+
 
 ## Saturday, July 12th, 2025 1-5 pm
 
