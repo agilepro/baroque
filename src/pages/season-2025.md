@@ -69,3 +69,12 @@ In addition to his artistry with keyboard instruments, Maestro Reddin is in freq
 * UCSC Chamber Singers led by Michael McGushin
 * WAVE (Women's Antique Vocal Ensemble)
 
+----
+
+### Boomeria Lives On!
+* Saturday, July 12th, 1-5 p.m.
+* St. Andrew's Church of Ben Lomond
+* [See Details](/boomeria)
+
+In 2024 for the first time this favorite annual event relocated to Ben Lomond's charming St. Andrew's Church. In addition to performances on the church's pipe organ, a special attraction was the Irish Country Dancers led by Michael Murphy and accompanied by Crooked Road, a band led by Julie Horner.  In 2025, we plan another delightful afternoon including a variety of performances as well as wine and gourmet treats.
+

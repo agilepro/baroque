@@ -31,8 +31,10 @@ Program: Selections to be announced by the artist.
 * Vlada Moran - pipe organ
 * Wayne Jackson - pipe organ
 * William Visscher - pipe organ
+* Wolfgang Roethig - pipe organ 
 
-
+* Jackie McMilin - violin
+* Tanya Rekow - oboe
 
 The Santa Cruz Brass Quintet
 * Leonard Moore, Trumpet
@@ -41,7 +43,7 @@ The Santa Cruz Brass Quintet
 * Charlie McDowell, Trombone
 * Scott Wilkinson, Tuba
 
+Julie Horner and The Crooked Road Band 
 
-Santa Cruz Historical Fencing
-* Historical Swordplay Lecture and Demonstration with Rowan O'Neal and Van Swanson
+Gamelan Sekar Swarasanti, Bonny Doon Baroque Crumhorn Consort, and more . . . 
 
