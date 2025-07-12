@@ -5,7 +5,7 @@ slug: "/contact"
 
 # We'd love to hear from you!
 
-The Santa Cruz Baroque Festival is always looking to improce how we deliver out programming.  If you have praise, suggestions, ideas, wished, complaints, or any other kind of feedback, please tell us what's on your miND:
+The Santa Cruz Baroque Festival is always looking to improve how we deliver our programming.  If you have praise, suggestions, ideas, wished, complaints, or any other kind of feedback, please tell us what's on your miND:
 
 Email us: **manager@SantaCruzBaroqueFestival.org**
 

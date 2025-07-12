@@ -38,12 +38,10 @@ Program: Selections to be announced by the artist.
 
 The Santa Cruz Brass Quintet
 * Leonard Moore, Trumpet
-* Mark Joiner, Trumpet
-* Ken Weisner, Horn
+* George Demarest, Trumpet
+* Scott Wilkinson, Alto Horn
 * Charlie McDowell, Trombone
-* Scott Wilkinson, Tuba
-
-Julie Horner and The Crooked Road Band 
+* Mark Joiner, Tuba
 
 Gamelan Sekar Swarasanti, Bonny Doon Baroque Crumhorn Consort, and more . . . 
 

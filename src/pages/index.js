@@ -21,7 +21,9 @@ const IndexPage = () => (
               className="img-fluid"
             />
             <p> </p>
-            <h3>2025 Season</h3>
+          </Link>
+          <Link to="/boomeria">
+            <h3>Boomeria! -- July 12th, 2025</h3>
           </Link>
         </div>
       </div>

@@ -5,6 +5,19 @@ slug: "/season-2025"
 
 # 2025 Season Concerts
 
+
+
+## Boomeria Lives On!
+* Saturday, July 12th, 1-5 p.m.
+* St. Andrew's Church of Ben Lomond
+* [See Details](/boomeria)
+
+In 2024 for the first time this favorite annual event relocated to Ben Lomond's charming St. Andrew's Church. In addition to performances on the church's pipe organ, a special attraction was the Irish Country Dancers led by Michael Murphy and accompanied by Crooked Road, a band led by Julie Horner.  In 2025, we plan another delightful afternoon including a variety of performances as well as wine and gourmet treats.
+
+
+----
+
+
 ## Rendezvous with the Romantics
 
 Welcome to Santa Cruz Baroque Festival's 52nd season. We are delighted to announce that our distinguished Artist in Residence from last season, Maestro Jörg Reddin, has accepted the position of new Artistic Director for the 2025 season. Maestro Reddin thrilled our audiences last year with his mastery of the pipe organ, his rich bass-baritone voice, and his skillful conducting. For 2025, in addition to presenting four contrasting concert programs we will cohost a fundraising event at the German Cultural Center of Santa Cruz and two concerts with limited admission at private homes. In addition, Maestro Reddin will once again offer a Master Class for vocalists and oversee our annual Youth Competition, this year also for singers. 
@@ -68,13 +81,4 @@ In addition to his artistry with keyboard instruments, Maestro Reddin is in freq
 * Jörg Reddin, Bass-Baritone and organ
 * UCSC Chamber Singers led by Michael McGushin
 * WAVE (Women's Antique Vocal Ensemble)
-
-----
-
-### Boomeria Lives On!
-* Saturday, July 12th, 1-5 p.m.
-* St. Andrew's Church of Ben Lomond
-* [See Details](/boomeria)
-
-In 2024 for the first time this favorite annual event relocated to Ben Lomond's charming St. Andrew's Church. In addition to performances on the church's pipe organ, a special attraction was the Irish Country Dancers led by Michael Murphy and accompanied by Crooked Road, a band led by Julie Horner.  In 2025, we plan another delightful afternoon including a variety of performances as well as wine and gourmet treats.
 

@@ -11,17 +11,12 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 # Board of Directors
 
-## Co-President
+## President
 
 ### Vlada Moran
 
 ![](board-vlada.jpg)
 
-## Co-President
-
-### Brian Johnston
-
-![](board-brian.jpg)
 
 ## Vice-President Artistic Affairs 
 
@@ -35,11 +30,19 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ![](board-dorothy.jpg)
 
-## Secretary
+## Treasurer
 
 ### Donald Wilson
 
 ![](board-donald.jpg)
+
+## Secretary
+
+### Ontario Alexander
+
+![](board-ontario.jpg)
+
+
 
 ## Board members
 
@@ -51,10 +54,6 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ![](board-judy.jpg)
 
-### Ontario Alexander
-
-![](board-ontario.jpg)
-
 ### Penni Bengtson
 
 ![](board-penni.jpg)
@@ -63,6 +62,6 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 
 ![](board-keith.jpg)
 
+### Brian Johnston
 
-
-
+![](board-brian.jpg)
