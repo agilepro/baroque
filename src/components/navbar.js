@@ -2,10 +2,6 @@ import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
 
-const isActive = ({ isCurrent }) => {
-  return isCurrent ? { className: "nav-link active" } : {className: "nav-link"}
-}
-
 
 const menuItems = [
   {
@@ -19,8 +15,8 @@ const menuItems = [
     ],
   },
   {
-    title: 'Concerts',
-    path: '/season-2025',
+    title: '2026',
+    path: '/season-2026',
   },
   {
     title: 'Youth',
@@ -42,6 +38,7 @@ const menuItems = [
     title: 'Seasons',
     path: '/seasons',
     subItems: [
+      { title: '2026', path: '/season-2026' },
       { title: '2025', path: '/season-2025' },
       { title: '2024', path: '/season-2024' },
       { title: '2023', path: '/season-2023' },

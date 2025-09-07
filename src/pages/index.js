@@ -22,8 +22,8 @@ const IndexPage = () => (
             />
             <p> </p>
           </Link>
-          <Link to="/boomeria">
-            <h3>Boomeria! -- July 12th, 2025</h3>
+          <Link to="/season-2026">
+            <h3>2026 Season</h3>
           </Link>
         </div>
       </div>
