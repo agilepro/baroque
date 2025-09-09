@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Santa Cruz Baroque Festival`,
-    description: `A simple bootstrap 5 and Sass starter for Gatsby. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `KSwenson`,
+    description: `This is the site for the Santa Cruz Baroque Festival.`,
+    author: `Keith Swenson`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -48,6 +48,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-autolink-headers`,
           {
             resolve: `gatsby-remark-images`,
             options: {

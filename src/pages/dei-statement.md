@@ -14,6 +14,7 @@ At the Santa Cruz Baroque Festival, we believe that music is a powerful force th
 ## Our Actions
 
 1. **Inclusive Programming**: We will continue to present a diverse lineup of performers and concert themes that showcases the ways early European music was influenced by and influenced folk and indigenous music from non-European cultures. 
+
 2. **Community Engagement**: We will build meaningful partnerships with local organizations, schools, and community groups to ensure our festival is accessible and relevant to the diverse communities we serve.
 
 3. **Accessible Experiences**: We will implement measures to ensure our festival is physically and economically accessible to all, including offering student discounts, a policy of free admission to first-time SCBF attendees, ADA-compliant facilities, and free community events.

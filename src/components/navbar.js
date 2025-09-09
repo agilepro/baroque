@@ -23,10 +23,6 @@ const menuItems = [
     path: '/youth2'
   },
   {
-    title: 'Events',
-    path: '/events'
-  },
-  {
     title: 'Tickets',
     path: '/tickets',
   },
