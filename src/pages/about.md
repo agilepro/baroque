@@ -12,9 +12,16 @@ Our mission is to present an annual season of early music as it sounded in its o
 Santa Cruz Baroque Festival envisions a community where all people have experienced the joy of music, and can understand the legacy and value of early chamber music in which a player traditionally creates a unique performance by structured improvisation.      
 
 ## Baroque Festival Core Values
+
 * We present artistically excellent performances that are emotionally expressive, with chamber music performed in the improvisatory style in fashion when the music was new.
 * We engage in education to audiences of all ages through our pre-concert talks, our concert notes, radio broadcasts, the ‘See Things in Context' on our website, and in 2020, free weekly video live casts. Currently, we're featured on KSQD's Community Concert Hall.
 * We engage in Youth Outreach and education through our Youth Chamber Music Competition, our Emerging Artist Showcase, our bilingual videos (in preparation), and our artists in classrooms.
+
+&nbsp;
+
+![](/separator.png)
+
+&nbsp;
 
 ## Founder, Former Artistic Director
 
@@ -30,3 +37,10 @@ As Linda worked tirelessly for over 50 years to bring exceptional performances a
 
 
 ## Thank you for taking this journey with us!
+
+
+&nbsp;
+
+![](/separator.png)
+
+&nbsp;

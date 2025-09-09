@@ -6,6 +6,31 @@ slug: "/season-2026"
 
 Welcome to the 53rd year of the Santa Cruz Baroque Festival.  This year's theme is "Essentially Baroque" bring the essence of classical music in a bridge across time.
 
+
+&nbsp;
+
+![](/separator.png)
+
+&nbsp;
+
+| Season Schedule                       |            |           |
+|---------------------------------------|------------|-----------|
+|**[Musical Stories of Brass and Organ](#musical-stories-of-brass-and-organ)**  | January 31 | 4 pm    |
+|**[Themes and Variations](#themes-and-variations)** | February 8 | 4 pm |
+|**[Organ Masterclass](#organ-masterclass)** | February 15 | 4 pm |
+|**[Baroque Songs and Arias](#baroque-songs-and-arias)** | February 21 | 7 pm |
+|**[Vocal Masterclass](#vocal-masterclass)** | February 22 | 3-5 pm |
+|**[Vocal Competition](#vocal-competition)** | February 27 | 3-5 pm |
+|**[Baroque Festival meets Family](#baroque-festival-meets-family)** | March 1 | 4 pm |
+|**[Secular and Sacred Vocal Music](#secular-and-sacred-vocal-music)** | March 7 | 6 pm |
+|**[All Bach Solo Violin](#all-bach-solo-violin)** | April 25 | 7:30 pm |
+
+&nbsp;
+
+![](/separator.png)
+
+&nbsp;
+
 ----
 
 ### Musical Stories of Brass and Organ
@@ -15,6 +40,8 @@ Welcome to the 53rd year of the Santa Cruz Baroque Festival.  This year's theme 
 Performers:
 * Jörg Reddin, Organ
 * Santa Cruz Brass Quintet
+
+&nbsp;
 
 ----
 
@@ -26,13 +53,17 @@ Organ solo recital: Jörg Reddin
 
 Reception for donors in the Holy Cross Hall 6 pm
 
+&nbsp;
+
 ----
 
-### Organ masterclass
-* February 15, 4-6 pm
+### Organ Masterclass
+* February 15, 4:00 pm
 * Calvary Episcopal Church
 
-Organ masterclass led by Jörg Reddin
+Organ Masterclass led by Jörg Reddin
+
+&nbsp;
 
 ----
 
@@ -41,6 +72,8 @@ Organ masterclass led by Jörg Reddin
 * Calvary Episcopal Church
 
 
+&nbsp;
+
 ----
 
 ### Vocal Masterclass
@@ -48,12 +81,16 @@ Organ masterclass led by Jörg Reddin
 * Trinity Presbyterian Church
 
 
+&nbsp;
+
 ----
 
 ### Vocal Competition
 * February 27, 3-5 pm
 * Trinity Presbyterian Church
 
+
+&nbsp;
 
 ----
 
@@ -65,6 +102,8 @@ Children’s concert (Prokofiev’s Peter and the Wolf, Toccata and Fugue in D m
 Performers:
 * Jörg Reddin, Organ
 * Mikey McGushin, Narrator
+
+&nbsp;
 
 ----
 
@@ -82,6 +121,8 @@ Performers:
 * UCSC chamber, choir
 
 Reception 8 pm
+
+&nbsp;
 
 ----
 
