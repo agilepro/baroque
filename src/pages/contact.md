@@ -1,6 +1,7 @@
 ---
 date: "2024-07-14"
 slug: "/contact"
+title: "Contact"
 ---
 
 # We'd love to hear from you!
@@ -27,7 +28,7 @@ Stay informed about Baroque Festival events and news by clicking the link below:
 
 Get concert and VIP event invitations, hear the latest developments, and access new media.  Search for Santa Cruz Baroque Festival and like our page for all of the latest!
 
-[Facebook: CSBAROQUE](http://facebook.com/SCBAROQUE)
+[Facebook: SCBAROQUE](http://facebook.com/SCBAROQUE)
 
 ----
 

@@ -1,6 +1,7 @@
 ---
 date: "2024-07-14"
 slug: "/youth"
+title: "Youth"
 ---
 
 # Youth Chamber Music Competition

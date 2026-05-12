@@ -1,5 +1,6 @@
 ---
 slug: "/board"
+title: "Board of Directors"
 ---
 # Artistic Director
 
@@ -49,14 +50,6 @@ Baroque Festival audiences were first introduced to Jörg Reddin in the 2024 sea
 ### Jill Perry
 
 ![](board-jill.jpg)
-
-### Judy Roberts
-
-![](board-judy.jpg)
-
-### Penni Bengtson
-
-![](board-penni.jpg)
 
 ### Keith Swenson
 

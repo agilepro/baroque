@@ -1,5 +1,6 @@
 ---
 slug: "/dei-statement"
+title: "DEI Statement"
 ---
 # Diversity, Equity, and Inclusion Statement
 

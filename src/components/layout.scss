@@ -60,8 +60,8 @@ body {
     background-color: #eab965;
   }
 
-  .max-width-400 {
-    max-width: 420px;
+  .max-width-350 {
+    max-width: 360px;
     flex-basis: auto;
   }
 
@@ -70,7 +70,7 @@ body {
     flex-wrap: wrap;
     row-gap: 20px;
     column-gap: 20px;
-    max-width: 860px;
+    max-width: 780px;
     margin: auto;
   }
 
@@ -88,4 +88,22 @@ th {
     font-weight: 500;
   padding: 15px;
   border-bottom: 1px #eab965 solid;
+}
+
+.thumbnail {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  box-shadow: 2px 2px 3px 1px #7e7058;
+  background-color: #7e7058;
+}
+
+.thumbHolder {
+  float: left;
+  padding: 5px;
+  margin: 5px;
+}
+
+.stupidFloatEnder {
+  clear: both;
 }

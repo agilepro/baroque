@@ -1,5 +1,6 @@
 ---
 slug: "/seasons"
+title: "Seasons"
 ---
 # Seasons
 

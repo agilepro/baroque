@@ -31,6 +31,10 @@ const menuItems = [
     path: '/donate',
   },
   {
+    title: 'Photos',
+    path: '/photos',
+  },
+  {
     title: 'Seasons',
     path: '/seasons',
     subItems: [

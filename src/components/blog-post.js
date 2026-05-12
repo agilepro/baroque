@@ -13,6 +13,7 @@ export default function BlogPost({ data }) {
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
         <link href="https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&family=Kaushan+Script&display=swap" rel="stylesheet"/>
+        <title>{post.frontmatter.title}</title>
       </Helmet>
       <Navbar/>
       <div class="mainContentDiv">
