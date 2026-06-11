@@ -6,10 +6,7 @@ title: "Boomeria"
 
 # Boomeria Lives On!
 
-Join us for a festive musical happening at our yearly Boomeria fundraiser at the
-enchanting St. Andrews Church of Ben Lomond and meet Artistic Director Jörg Reddin
-who’s coming from Arnstadt, Germany. Saturday, July 11, 1-4 PM. Wine and gourmet
-food served. This is a happy summer prelude to our upcoming 53rd season
+Join us for a festive musical happening at our yearly Boomeria fundraiser at the enchanting St. Andrews Church of Ben Lomond and meet Artistic Director Jörg Reddin who’s coming from Arnstadt, Germany. Saturday, July 11, 1-4 PM. Wine and gourmet food served. This is a happy summer prelude to our upcoming 54th season.
 
 ## Background
 
@@ -21,7 +18,7 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 
 ![](boomeria-img00.jpg)
 
-* [Boomeria tickets](https://runsignup.com/TicketEvent/Boomeria2026)
+* [Boomeria tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=5AEC1FA6-F619-BD88-AACE48CB89EA4887)
 
 
 ## Saturday, July 11th, 1-4 pm, 2026
@@ -31,7 +28,8 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 
 Program: Selections to be announced by the artist.
 
-* Organists: Bill Vischer, Ethan Williams, Bruce Cawhll, Jesse McMilin, and Vlada Moran
-* Scot Wilkinson with SC brass ensemble.
+* Organists: Bill Visscher, Ethan Williams, Bruce Sawhill, Jesse McMilan, and Vlada Moran
+* Scott Wilkinson with SC brass ensemble.
 * Penny Hanna, viola da gamba
 
+![QR Code](./2026-boomeria-qr-code.png)
