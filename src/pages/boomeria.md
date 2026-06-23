@@ -26,10 +26,12 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 * St. Andrews Episcopal Church
 * 101 Riverside Ave, Ben Lomond, CA 95005
 
-Program: Selections to be announced by the artist.
+The performers for Boomeria:
 
-* Organists: Bill Visscher, Ethan Williams, Bruce Sawhill, Jesse McMilan, and Vlada Moran
-* Scott Wilkinson with SC brass ensemble.
-* Penny Hanna, viola da gamba
+* Organists: Bill Visscher, Bruce Sawhill, Eathan Williams, Jesse McMilin, Wolfgang Roethig, and Vlada Volkova-Moran
+* Laura Shea-Clark and Guy Clark - trumpets
+* Penny Hanna - viola da gamba
+* Scott Willkinson with the Santa Cruz Brass Ensemble 
+* Jeff DeMarco’s instrumental group, the Pastyme Consort (recorders), in the Parish Hall
 
 ![QR Code](./2026-boomeria-qr-code.png)
