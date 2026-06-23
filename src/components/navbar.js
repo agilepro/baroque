@@ -32,7 +32,11 @@ const menuItems = [
   },
   {
     title: 'Photos',
-    path: '/photos',
+    path: '/photos2026',
+    subItems: [
+      { title: '2026', path: '/photos2026' },
+      { title: '2025', path: '/photos2025' },
+    ],
   },
   {
     title: 'Seasons',
