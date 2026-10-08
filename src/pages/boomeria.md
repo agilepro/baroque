@@ -6,7 +6,7 @@ title: "Boomeria"
 
 # Boomeria Lives On!
 
-Join us for a festive musical happening at our yearly Boomeria fundraiser at the enchanting St. Andrews Church of Ben Lomond and meet Artistic Director Jörg Reddin who’s coming from Arnstadt, Germany. Saturday, July 11, 1-4 PM. Wine and gourmet food served. This is a happy summer prelude to our upcoming 54th season.
+Join us for a festive musical happening at our yearly Boomeria fundraiser at the enchanting St. Andrews Church of Ben Lomond. Saturday, July 11, 1-4 PM. Wine and gourmet food served. This is a happy summer prelude to our upcoming 54th season.
 
 ## Background
 

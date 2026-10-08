@@ -7,6 +7,8 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Gallery, Item } from "react-photoswipe-gallery"
 import "photoswipe/dist/photoswipe.css"
 import captions2025 from "../photos/2025/captions.json"
+import PhotoSwipeDynamicCaption from 'photoswipe-dynamic-caption-plugin'
+import 'photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css'
 
 const captionMap = Object.fromEntries(
   captions2025.map(entry => [entry.file.toLowerCase(), entry])
@@ -16,7 +18,7 @@ const PhotoPage = ({ data }) => (
   <Layout>
     <div className="container my-5">
       <h1>Photo Gallery 2025</h1>
-      <Gallery>
+      <Gallery plugins={(lightbox) => new PhotoSwipeDynamicCaption(lightbox, {type: 'below'})}>
         <div className="photo-grid">
           {data.photoList.edges.map(({ node }) => {
             const meta = captionMap[node.base.toLowerCase()] || {}
