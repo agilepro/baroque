@@ -12,19 +12,39 @@ const AboutPage = () => (
             <h1>Donations</h1>
 
 <p>Dear Santa Cruz Baroque Festival Patron,</p>
-<p>We hope this letter finds you well and looking forward to the Santa Cruz Baroque Festivals 53rd season “ESSENTIALLY BAROQUE”.</p>
-<p>We are thrilled to announce that this will be Artistic Director Jörg Reddin’s third season at the helm and he has once again created a wonderfully varied season we are sure will help guarantee the success for the future of our organization.</p>
-<p>We cannot thank you enough for your past support! Your generosity ensures that the Baroque Festival continues beyond our 53rd season, inspiring future generations of listeners and young musicians with the same excellence that has brought us together since the organization was founded by Linda Burman-Hall.</p>
-<p>Baroque Festival audiences were first introduced to Jörg Reddin from the Bach Church in Arnstadt Germany in the 2024 season, when as Artist in Residence he directed and performed on the first four concerts of the Festival. Audiences enthusiastically responded to Maestro Reddin's insightful programing and virtuosity on the organ as well as his warm bass-baritone voice. His infectious enthusiasm for Baroque music and easy rapport with the audience were evident throughout his four concerts.</p>
-<p>With your support of donations, season ticket sales and sponsorships, Maestro Reddin and the entire Board of the Festival is sure you will enjoy this season’s offerings, including concerts for Solo Pipe Organ, Organ and Brass, Baroque Songs and Arias, Secular & Sacred Music from the Bach family and a Solo All-Bach Violin performance: Essentially Baroque!</p>
-<p>In addition we’ve added a special Family & Kids concert (Prokofiev’s Peter and the Wolf, Toccata and Fugue in D minor, and more), several master classes, and a vocal competition.</p>
-<p>In order tor the Festival to present the superlative season Maestro Reddin has planned for 2026, we need to raise $20,000. With funding for the arts in Santa Cruz basically non-existent, we desperately need your help and count on you to make 2026 the best Baroque Festival yet!</p>
-<p>Musically yours,</p>
-<p>The Santa Cruz Baroque Festival Board of Directors.</p>
-<p>You can make a donation, sponsor a concert and buy season tickets online ~ by mail ~ phone </p>
-<p>Online at scbaroquefestival.org ~ email: manager@SantaCruzBaroqueFestival.org</p>
-<p>Call us: 831.457.9693 P.O. Box 482Santa Cruz, CA 95061</p>
-<p>The Santa Cruz Baroque Festival is a non-profit 501(c)(3). Taxpayer Identification Number EIN 94-2705719</p>
+<p>
+We hope this letter finds you well and looking forward with anticipation to the
+Santa Cruz Baroque Festival’s 54th season “Baroque Without Words”.
+</p>
+<p>
+With your support of donations, season ticket sales and sponsorships, Maestro
+Reddin and the entire Board of the Festival are certain you will enjoy this season’s offerings, featuring the extraordinary baroque trumpeter Dominic Favia,
+renowned German baroque oboist Marianne Pfau, and one of America's premier
+baroque ensembles, Musica Pacifica, along with our opening fundraiser, delightful receptions to meet the artists, and Youth Vocal Music Competition (with
+words), and of course, the incomparable Jörg Reddin.
+</p>
+<p>
+Baroque Festival audiences were first introduced to Jörg Reddin from the Bach
+Church in Arnstadt Germany in the 2024 season. The enthusiastic response to
+Maestro Reddin's insightful programing and virtuosity, his infectious enthusiasm
+and easy rapport with the audience continue to be evident at every concert.
+</p>
+<p>
+As we begin our new season, we want to thank you again for your extraordinary
+support. Your generosity ensures that the Baroque Festival will continue inspiring future generations of listeners and young musicians with the same excellence that has brought us together since the organization was founded by Linda
+Burman-Hall.
+</p>
+<p>
+For the Festival to present the superlative season Maestro Reddin has planned for
+2027, we need to raise over $20,000. With funding for the arts in Santa Cruz basically non-existent, we desperately need your help and count on you to make 2027
+the best Baroque Festival yet!
+</p>
+<p>
+Musically yours,
+</p>
+<p>
+The Santa Cruz Baroque Festival Board of Directors.
+</p>
 
 <hr/>
 

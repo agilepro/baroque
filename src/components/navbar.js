@@ -15,8 +15,8 @@ const menuItems = [
     ],
   },
   {
-    title: '2026',
-    path: '/season-2026',
+    title: '2027',
+    path: '/season-2027',
   },
   {
     title: 'Youth',
@@ -42,6 +42,7 @@ const menuItems = [
     title: 'Seasons',
     path: '/seasons',
     subItems: [
+      { title: '2027', path: '/season-2027' },
       { title: '2026', path: '/season-2026' },
       { title: '2025', path: '/season-2025' },
       { title: '2024', path: '/season-2024' },

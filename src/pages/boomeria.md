@@ -18,7 +18,6 @@ All proceeds from this performance go the fundraising efforts of The Santa Cruz 
 
 ![](boomeria-img00.jpg)
 
-* [Boomeria tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=5AEC1FA6-F619-BD88-AACE48CB89EA4887)
 
 
 ## Saturday, July 11th, 1-4 pm, 2026

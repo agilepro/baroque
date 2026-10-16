@@ -108,7 +108,7 @@ In 2024 for the first time this favorite annual event relocated to Ben Lomond's 
 * Concert at 4 pm followed by a reception
 * [German Cultural Center of Santa Cruz](https://www.germanculturalcentersantacruz.com/)
 * 230 Plymouth Street, Santa Cruz, CA 95060
-* Tickets are $35, available at [InstantSeats](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=B2727254-DEB7-4B6B-C8EF7F1CF1987C2F)
+* Tickets are $35
 
 **Robert Schumann - The Great German Composer in Words and Music**
 
@@ -131,10 +131,7 @@ This season's Youth Competition will be held in the singing category.
 
 Location: Trinity Presbyterian Church, 423 Melrose Ave, Santa Cruz
 
-This season's master class will be held in the singing category.  Send your intent of participation to Vlada Volkova-Moran at vladamuse@sbcglobal.net and the payment of $50 by February 10th
-
-* by check to: P.O. Box 482, Santa Cruz, CA 9506
-* by [PayPal](https://www.paypal.com/ncp/payment/KXLLJB2GDJEZA): https://www.paypal.com/ncp/payment/KXLLJB2GDJEZA
+This season's master class will be held in the singing category.  This event is completed.
 
 The Masterclass is open to the public and free to observe.
 
@@ -142,7 +139,7 @@ The Masterclass is open to the public and free to observe.
 
 ### Chamber Music Fund-raiser 
 * Saturday, April 26, 3:00 pm
-* $50  ( [Tickets](https://www.instantseats.com/index.cfm?fuseaction=buy.event&eventID=58EC3A3D-9CA3-54DF-3C9D43A7D4FA7058) )
+* $50 
 * [See the Poster](../Apr_25_fundraiser_poster.pdf)
 
 
