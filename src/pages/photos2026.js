@@ -18,7 +18,14 @@ const PhotoPage = ({ data }) => (
   <Layout>
     <div className="container my-5">
       <h1>Photo Gallery 2026</h1>
-      <Gallery plugins={(lightbox) => new PhotoSwipeDynamicCaption(lightbox, {type: 'below'})}>
+      <Gallery
+        plugins={(lightbox) =>
+          new PhotoSwipeDynamicCaption(lightbox, {
+            type: 'below',
+            captionContent: (slide) => slide.data.caption || '',
+          })
+        }
+      >
         <div className="photo-grid">
           {data.photoList.edges.map(({ node }) => {
             const meta = captionMap[node.base.toLowerCase()] || {}
@@ -69,7 +76,6 @@ export const photoQuery = graphql`
         dir: { regex: "/photos.2026/" }
         extension: { regex: "/jpg/i" }
       }
-      sort: { base: ASC }
     ) {
       edges {
         node {
@@ -77,7 +83,7 @@ export const photoQuery = graphql`
           base
           publicURL
           childImageSharp {
-            gatsbyImageData(width: 300, height: 300, layout: FIXED, transformOptions: { cropFocus: CENTER })
+            gatsbyImageData(width: 400, height: 400, layout: CONSTRAINED, transformOptions: { cropFocus: CENTER })
             original {
               width
               height
