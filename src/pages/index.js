@@ -11,7 +11,7 @@ const IndexPage = () => (
       <div className="row py-lg-5">
         <div className="col-lg-6 col-md-8 mx-auto">
           <h1 className="fw-light">Santa Cruz Baroque Festival</h1>
-          <Link to="/season-2025">
+          <Link to="/season-2027">
             <StaticImage
               src="../images/front-image.jpg"
               width={600}

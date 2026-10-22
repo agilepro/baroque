@@ -25,3 +25,5 @@ And stay informed about Baroque Festival events and news by clicking the link be
 ![](/separator.png)
 
 ![](/2027-JoergReddin2.jpg) 
+
+(Photo credit: Kevin Monahan)
