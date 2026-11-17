@@ -156,3 +156,11 @@ th {
   font-size: 0.72rem;
   color: #eab965;
 }
+
+// PhotoSwipe sets an explicit pixel width and height on the lightbox image.
+// `contain` guarantees the pixels stay square -- the photo fills the viewing
+// area in one direction and the other is derived from its own aspect ratio,
+// so a photo is never stretched even if the declared size is slightly off.
+.pswp__img {
+  object-fit: contain;
+}

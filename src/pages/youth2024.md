@@ -1,7 +1,7 @@
 ---
 date: "2024-07-14"
-slug: "/youth"
-title: "Youth"
+slug: "/youth2024"
+title: "Youth 2024"
 ---
 
 # Youth Chamber Music Competition

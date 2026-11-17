@@ -126,7 +126,7 @@ The Masterclass is open to the public and free to observe.
 
 Open to vocalists aged 14-26 (as of competition date) who are residents of Santa Cruz, San Mateo, Monterey, Santa Clara, or San Benito counties.  There are monetary prizes.  1st place winner will have a performance opportunity at a future Santa Cruz Baroque Festival Concert.
 
-See additional details on the [Youth Vocal Music Competition](../youth2) page.
+See additional details on the [Youth Vocal Music Competition](../youth2026) page.
 
 
 ![QR Code](./2026-competition-qr-code.png)

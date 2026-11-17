@@ -87,9 +87,9 @@ Featuring the Three Bs': Bach, Buxteheude and Bruhns in the lovely sanctuary of 
 ### Youth Vocal Music Competition
 Celebrate our youth outreach and support in action.
 
-* Saturday, February 20th, 3-6 pm
-* Trinity Presbyterian Church
-
+- Saturday, February 20th, 3-6 pm
+- Trinity Presbyterian Church
+- [See Detail Page](/youth2/)
 
 
 &nbsp;

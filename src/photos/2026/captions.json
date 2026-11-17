@@ -78,5 +78,60 @@
     "file": "Peter-and-Wolf.jpg", 
     "caption": "Peter and the Wolf artwork",
     "date": "2026-03-15"
+    },
+    {
+    "file": "organ-masterclass-1.jpg", 
+    "caption": "Organ Master Class",
+    "date": "2026-02-15"
+    },
+    {
+    "file": "organ-masterclass-2.jpg", 
+    "caption": "Organ Master Class",
+    "date": "2026-02-15"
+    },
+    {
+    "file": "organ-masterclass-3.jpg", 
+    "caption": "Organ Master Class",
+    "date": "2026-02-15"
+    },
+    {
+    "file": "master-class-1.jpg", 
+    "caption": "Master Class",
+    "date": "2026-02-22"
+    },
+    {
+    "file": "master-class-2.jpg", 
+    "caption": "Master Class",
+    "date": "2026-02-22"
+    },
+    {
+    "file": "master-class-3.jpg", 
+    "caption": "Master Class",
+    "date": "2026-02-22"
+    },
+    {
+    "file": "master-class-4.jpg", 
+    "caption": "Master Class",
+    "date": "2026-02-22"
+    },
+    {
+    "file": "master-class-5.jpg", 
+    "caption": "Master Class",
+    "date": "2026-02-22"
+    },
+    {
+    "file": "reception-after-concert-1.jpg", 
+    "caption": "Reception after Concert 1",
+    "date": "2026-02-08"
+    },
+    {
+    "file": "fundraiser-1.jpg", 
+    "caption": "Fundraiser Event",
+    "date": "2026-02-08"
+    },
+    {
+    "file": "fundraiser-2.jpg", 
+    "caption": "Fundraiser Event",
+    "date": "2026-02-08"
     }
 ]
