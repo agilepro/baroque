@@ -81,7 +81,7 @@ export const photoQuery = graphql`
           publicURL
           childImageSharp {
             thumb: gatsbyImageData(width: 300, height: 300, layout: FIXED, transformOptions: { cropFocus: CENTER })
-            full: gatsbyImageData(width: 2400, layout: FIXED, placeholder: NONE, formats: [AUTO], quality: 85)
+            full: gatsbyImageData(width: 2000, layout: CONSTRAINED, placeholder: NONE, formats: [AUTO], quality: 85)
           }
         }
       }
